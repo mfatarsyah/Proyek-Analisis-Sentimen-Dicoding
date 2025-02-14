@@ -24,7 +24,7 @@ This project focuses on sentiment analysis of user reviews for the **Spotify mob
 
 * Scikit-learn, TensorFlow (for model training and evaluation)
 
-** Installation
+## Installation
 * Clone this repository :
 
  ``` https://github.com/mfatarsyah/Proyek-Analisis-Sentimen-Dicoding.git ```
